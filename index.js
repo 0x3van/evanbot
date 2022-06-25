@@ -7,8 +7,6 @@ const config = require('./config.json')
 const colors = require('colors')
 client.config = config;
 const fs = require("fs")
-const DISCORD_TOKEN = "OTkwMTMzMTg5Mjc4MzMwOTEw.GdqEEM.V59BmW8J9QAv2lRFr96nDUXS_YtVgZ4L6Zxf-w"
-
 fs.readdir("./events/", (err, files) => {
     if (err) return console.error(err);
     files.forEach(file => {
