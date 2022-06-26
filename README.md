@@ -1,6 +1,2 @@
-# evan.systems bot
-
-### a discord bot
-
-
-a little javascript project im working on to learn discord.js and its various functionalities, feel free to fork it lol
+# evan.systems-bot
+written in discord.js with basic moderation functionality, very shitty spaghetti code and soon to be used for experimenting with OpenAI
